@@ -1,0 +1,25 @@
+.container1 {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 15px
+}
+
+ul {
+    border: 5px solid black;
+    padding: 5px;
+    width: 100px;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+}
+
+td {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+thead {
+    background-color: rgb(141, 133, 133);
+}
